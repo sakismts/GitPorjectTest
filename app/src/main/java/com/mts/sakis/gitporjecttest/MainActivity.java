@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String strTest = "Git stash change";
         String strTest2 = "sa";
+        String strTest3 = "sasa";
     }
 }
